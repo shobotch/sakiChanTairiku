@@ -1,0 +1,12 @@
+1.0.2.0
+http://shobotch.allalla.com/tween/package/sakiChanTairiku_1.0.2.0.zip
+
+==== Ver 1.0.2.0(2012/05/29)
+
+公式のOpenTween Ver 1.0.3.0(2012/05/29)から派生しました。
+http://shobotch.allalla.com/tween/package/
+のindex Ofでも見て勝手にソースなり過去のバージョンを遡ってください。
+
+ * CHG: パクリ機能にショートカットを設定
+ * FIX: 無駄なファイルが生成されていたのを修正
+ 
